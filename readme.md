@@ -1,4 +1,4 @@
-# Hi! I'm Bruno, kwno as Midhatdrops
+# Hi! I'm Bruno, know as Midhatdrops
 
 ## 🔥 Dev Front-end, JS, React, TS, and studing some PHP.
 
