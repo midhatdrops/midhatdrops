@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://www.pngfind.com/pngs/m/565-5652569_kanto-badge-pack-hd-png-download.png"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ed92f9c-c1e6-4bc2-9b0a-9d9d6ddb417a/d1tsuz8-7e2249f4-1493-4719-982d-469ec550695e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNGVkOTJmOWMtYzFlNi00YmMyLTliMGEtOWQ5ZDZkZGI0MTdhXC9kMXRzdXo4LTdlMjI0OWY0LTE0OTMtNDcxOS05ODJkLTQ2OWVjNTUwNjk1ZS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.xZtuIP3w_p8c5E7DKSUoKblCmNbSpIrojaAapowq-4Q" width="100px"/>
 <h1 align="center"> Hi! I'm Bruno, know as Midhatdrops</h1>
 </p>
 <br/>
-<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. You can see more info about me in my website: <a href="encurtador.com.br/sHNX4">link</a></p>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. <br/> You can see more info about me in my website: <a href="encurtador.com.br/sHNX4">link</a></p>
 <table align="center">
   <tbody>
     <tr>
