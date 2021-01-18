@@ -87,19 +87,19 @@
   <tbody>
     <tr valign="top">
       <td align="center">
-        <b>@rezendebruno1 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="30px"/></b>
+        <b><a href="https://twitter.com/rezenbruno1">@rezendebruno1</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="30px"/></b>
       </td>
     </tr>
     <tr valign="top">
     </tr>
     <tr>
       <td align="center">
-         <b>@rezendebruno <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="30px"/></b>
+         <b><a href="https://www.instagram.com/brunorezen">@brunorezen</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" width="30px"/></b>
       </td>
     </tr>
     <tr valign="top">
      <td align="center">
-         <b>Bruno Rezende Novais <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px"/></b>
+         <b><a href="https://www.linkedin.com/in/bruno-rezende-novais-8328b11b7/">Bruno Rezende Novais</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px"/></b>
       </td>
     </tr>
     <tr valign="top">
