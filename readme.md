@@ -87,7 +87,7 @@
   <tbody>
     <tr valign="top">
       <td align="center">
-        <b><a href="https://twitter.com/rezenbruno1">@rezendebruno1</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="30px"/></b>
+        <b><a href="https://twitter.com/rezenbruno1">@rezenbruno1</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" width="30px"/></b>
       </td>
     </tr>
     <tr valign="top">
