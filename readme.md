@@ -3,7 +3,7 @@
 <h1 align="center"> Hi! I'm Bruno, know as Midhatdrops</h1>
 </p>
 <br/>
-<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. <br/> You can see more info about me in my website: <a href="https://encurtador.com.br/sHNX4">link</a></p>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. <br/> You can see more info about me in my website: <a href="https://brunorn-mypersonalwebsite.herokuapp.com">link</a></p>
 <table align="center">
   <tbody>
     <tr>
@@ -53,9 +53,6 @@
       </td>
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-      </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/java.svg" />
       </td>
     </tr>
   </tbody>
