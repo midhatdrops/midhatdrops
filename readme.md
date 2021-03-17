@@ -8,10 +8,10 @@
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <samp>Front-end <br>:heart:</samp>
+        <samp>FullStack <br>:heart:</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Web-Design / Mobile<br>🖥</samp>
+        <samp>Web/Mobile <br>🖥</samp>
       </td>
       <td width="25%" align="center">
         <samp>RPG<br>🎮</samp>
@@ -53,6 +53,9 @@
       </td>
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+      </td>
+      <td width="20%" align="center">
+        <img height="40px" src="https://cdn.svgporn.com/logos/java.svg" />
       </td>
     </tr>
   </tbody>
