@@ -35,9 +35,6 @@
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
       </td>
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
-      </td>
     </tr>
     <tr valign="top">
     </tr>
