@@ -49,9 +49,6 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg" />
       </td>
       <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/php.svg" />
-      </td>
-      <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
       </td>
       <td width="20%" align="center">
