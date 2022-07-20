@@ -3,7 +3,7 @@
 <h1 align="center"> Hi! I'm Bruno, know as DevBronze</h1>
 </p>
 <br/>
-<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. <br/> You can see more info about me in my website: <a href="https://brunorn-mypersonalwebsite.herokuapp.com">link</a></p>
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. <br/> 
 <table align="center">
   <tbody>
     <tr>
@@ -24,10 +24,10 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+        <img height="40px" src="https://cdn.svgporn.com/logos/aws.svg" />
       </td>
       <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+        <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
       </td>
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />
@@ -43,7 +43,7 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/react.svg" />
       </td>
       <td width="25%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/sass.svg" />
+        <img height="40px" src="https://cdn.svgporn.com/logos/go.svgg" />
       </td>
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
