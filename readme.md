@@ -61,7 +61,7 @@
   <tbody>
     <tr valign="top">
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhatdrops&show_icons=true&hide_border=true&theme=tokyonight&hide=java&layout=compact" alt="Most Languages Used">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midhatdrops&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" alt="Most Languages Used">
       </td>
     </tr>
     <tr valign="top">
