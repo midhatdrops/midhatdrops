@@ -3,12 +3,12 @@
 <h1 align="center"> Hi! I'm Bruno, know as DevBronze</h1>
 </p>
 <br/>
-<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate developer from São Paulo / Brazil. <br/> 
+<p align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/>A passionate Software Engineer from São Paulo / Brazil. <br/> 
 <table align="center">
   <tbody>
     <tr>
       <td width="25%" align="center">
-        <samp>FullStack <br>:heart:</samp>
+        <samp>Backend <br>:heart:</samp>
       </td>
       <td width="25%" align="center">
         <samp>Web/Mobile <br>🖥</samp>
