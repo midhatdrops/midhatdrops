@@ -43,7 +43,7 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/react.svg" />
       </td>
       <td width="25%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/go.svgg" />
+        <img height="40px" src="https://cdn.svgporn.com/logos/go.svg" />
       </td>
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
