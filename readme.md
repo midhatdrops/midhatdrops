@@ -30,7 +30,7 @@
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" />
       </td>
       <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+        <img height="40px" src="https://cdn.svgporn.com/logos/scala.svg" />
       </td>
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
