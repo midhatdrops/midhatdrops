@@ -66,11 +66,6 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/spring.svg" />
       </td>
     </tr>
-     <tr valign="top">
-      <td width="20%" align="center">
-        <img height="40px" src="https://cdn.svgporn.com/logos/quarkus.svg" />
-      </td>
-    </tr>
   </tbody>
 </table>
 <br>
