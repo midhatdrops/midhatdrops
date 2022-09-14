@@ -52,6 +52,17 @@
         <img height="40px" src="https://cdn.svgporn.com/logos/java.svg" />
       </td>
     </tr>
+     <tr valign="top">
+      <td width="20%" align="center">
+        <img height="40px" src="https://cdn.svgporn.com/logos/docker.svg" />
+      </td>
+      <td width="25%" align="center">
+        <img height="40px" src="https://cdn.svgporn.com/logos/kubernetes.svg" />
+      </td>
+      <td width="20%" align="center">
+        <img height="40px" src="https://cdn.svgporn.com/logos/terraform.svg" />
+      </td>
+    </tr>
   </tbody>
 </table>
 <br>
