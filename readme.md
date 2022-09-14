@@ -11,7 +11,7 @@
         <samp>Backend <br>:heart:</samp>
       </td>
       <td width="25%" align="center">
-        <samp>Web/Mobile <br>🖥</samp>
+        <samp>Web/Data <br>🖥</samp>
       </td>
       <td width="25%" align="center">
         <samp>RPG<br>🎮</samp>
