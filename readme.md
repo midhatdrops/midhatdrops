@@ -62,6 +62,9 @@
       <td width="20%" align="center">
         <img height="40px" src="https://cdn.svgporn.com/logos/terraform.svg" />
       </td>
+      <td width="20%" align="center">
+        <img height="40px" src="https://cdn.svgporn.com/logos/spring.svg" /> / img height="40px" src="https://cdn.svgporn.com/logos/quarkus.svg" />
+      </td>
     </tr>
   </tbody>
 </table>
